@@ -6,12 +6,12 @@ with open('README.md', 'r', encoding='utf-8') as f:
 setup(
     name='AIKitchen-API',
     version='0.2.0',
-    author='Ashiq Hussain Mir',
+    author='',
     author_email='imseldrith@gmail.com',
     description="This is an unofficial API designed to interact with Google AI Kitchen's Music and Image generation tools. It provides programmatic access to features like Music Generation and Image Generation.",
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/mir-ashiq/AIKitchen-API',
+    url='https://github.com/26kumar/Customized_AI_Kitchen',
     packages=find_packages(),
     install_requires=[
         'requests', 
@@ -37,7 +37,7 @@ setup(
     ],
     keywords='AI Kitchen API',
     project_urls={
-        'Source': 'https://github.com/mir-ashiq/AIKitchen-API',
+        'Source': 'https://github.com/26kumar/Customized_AI_Kitchen',
     },
     license='MIT',
 )
