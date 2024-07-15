@@ -1,3 +1,28 @@
+Metadata-Version: 2.1
+Name: AIKitchen-API
+Version: 0.2.0
+Summary: This is an unofficial API designed to interact with Google AI Kitchen's Music and Image generation tools. It provides programmatic access to features like Music Generation and Image Generation.
+Home-page: https://github.com/mir-ashiq/AIKitchen-API
+Author: Ashiq Hussain Mir
+Author-email: imseldrith@gmail.com
+License: MIT
+Project-URL: Source, https://github.com/mir-ashiq/AIKitchen-API
+Keywords: AI Kitchen API
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: python-dotenv
+Requires-Dist: selenium
+Requires-Dist: undetected-chromedriver
+
 # AIKitchen-API
 
 An unofficial Python API designed for seamless interaction with Google AI Kitchen's Music and Image generation tools. Unlock the potential of creative content generation through programmatic access to cutting-edge AI capabilities.
